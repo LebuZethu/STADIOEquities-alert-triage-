@@ -14,7 +14,7 @@ belongs there.
 | Experimental results | `/experiments/results` |
 | Statistical helper and comparison scripts | `/scripts/statistical` |
 | Visualisation scripts | `/scripts/visualisation` |
-
+| Literature review (related work + dataset selection) | `/literature-review` |
 ---
 ## Motivation
 ### Why this problem matters to STADIOEquities
