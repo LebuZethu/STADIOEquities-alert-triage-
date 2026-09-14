@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dataset (too large for GitHub - download from Kaggle, see README)
+data/creditcard.csv
+data/*.csv
