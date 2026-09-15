@@ -220,3 +220,6 @@ __marimo__/
 # Dataset (too large for GitHub - download from Kaggle, see README)
 data/creditcard.csv
 data/*.csv
+
+# Ignore the entire large processed subfolder (CSV's too large for Github)
+data/processed/
