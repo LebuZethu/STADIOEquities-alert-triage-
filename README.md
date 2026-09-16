@@ -86,6 +86,7 @@ The following documents describe the modelling pipeline. Each links to its
 corresponding notebook and explains how to run it.
 
 - [Preprocessing](notebooks/Preprocessing.MD)
+- [Feature Engineering](notebooks/FeatureEngineering.MD)
 
 ## RAAIDD Log
 
