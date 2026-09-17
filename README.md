@@ -87,6 +87,7 @@ corresponding notebook and explains how to run it.
 
 - [Preprocessing](notebooks/Preprocessing.MD)
 - [Feature Engineering](notebooks/FeatureEngineering.MD)
+- [Model 1 : Logistic Regression](notebooks/Model1.MD)
 
 ## RAAIDD Log
 
