@@ -90,6 +90,16 @@ corresponding notebook and explains how to run it.
 - [Model 1 : Logistic Regression](notebooks/Model1.MD)
 - [Model 2 : Random Forest](notebooks/Model2.MD)
 
+---
+
+## Part C: Model Performance & Comparison
+
+The following documents present the performance results of each model on the
+Part A dataset, and a comparison between them. Each links to the notebook that
+produces the results.
+
+- [Model 1 Performance](notebooks/Model1Performance.MD)
+
 ## RAAIDD Log
 
 ### Risks
