@@ -99,6 +99,7 @@ Part A dataset, and a comparison between them. Each links to the notebook that
 produces the results.
 
 - [Model 1 Performance](notebooks/Model1Performance.MD)
+- [Model 2 Performance](notebooks/Model2Performance.MD)
 
 ## RAAIDD Log
 
