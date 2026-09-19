@@ -100,6 +100,7 @@ produces the results.
 
 - [Model 1 Performance](notebooks/Model1Performance.MD)
 - [Model 2 Performance](notebooks/Model2Performance.MD)
+- [Comparison of Model 1 and Model 2](notebooks/Comparison.MD)
 
 ## RAAIDD Log
 
