@@ -102,6 +102,18 @@ produces the results.
 - [Model 2 Performance](notebooks/Model2Performance.MD)
 - [Comparison of Model 1 and Model 2](notebooks/Comparison.MD)
 
+---
+
+## Part D: Recommendations Report
+
+A formal business report addressing which model is best, how it can be improved,
+how it adapts to STADIOEquities' own data, and how the results align with the
+literature.
+
+- [Recommendations Report (PDF)](docs/Recommendations_Report.pdf)
+
+
+
 ## RAAIDD Log
 
 ### Risks
