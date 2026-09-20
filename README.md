@@ -1,13 +1,15 @@
 # STADIOEquities-alert-triage-
 ## Repository structure
 
-This repository is organised so that every artifact type required by the project
-has a clear, dedicated location. The table below maps each required artifact to
-its folder. With each folder also contains its own short `README.md` describing what
-belongs there.
+The repository is organised so that every artifact type has a clear location.
+The table below maps each area to its folder. The SS2 modelling work (notebooks,
+documentation, and processed data) is contained in the `notebooks/` folder,
+while the remaining folders provide the standing structure for datasets, models,
+experiments, and scripts.
 
-| Required artifact | Location in this repository |
+| Area | Location in this repository |
 |---|---|
+| Modelling notebooks and documentation (SS2) | `/notebooks` |
 | Datasets | `/data` |
 | Models | `/models` |
 | Experimental setup | `/experiments/setup` |
@@ -15,6 +17,7 @@ belongs there.
 | Statistical helper and comparison scripts | `/scripts/statistical` |
 | Visualisation scripts | `/scripts/visualisation` |
 | Literature review (related work + dataset selection) | `/literature-review` |
+| Written reports and documents | `/docs` |
 ---
 ## Motivation
 ### Why this problem matters to STADIOEquities
