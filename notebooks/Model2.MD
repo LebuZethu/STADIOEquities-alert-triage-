@@ -42,6 +42,29 @@ baseline.
 - **Evaluation data:** the same untouched test set of 56,962 transactions used
   for Model 1. Using identical data for both models makes the comparison fair.
 
+## Note on the choice of max_depth
+
+The maximum depth of 20 was not chosen randomly. A tuning experiment was run
+to test several depth values (10, 20, 30, and unlimited) on the same data, using
+the same evaluation metrics. The experiment is available at
+`experiments/setup/max_depth_experiment.ipynb`, and its full results are saved at
+`experiments/results/max_depth_experiment_results.csv`.
+
+The experiment showed a clear trend: shallow trees (depth 10) underfit badly,
+producing 116 false positives, while deeper trees improved both precision and
+the false-positive count. A depth of 20 gives a strong, well-balanced result
+(F1 of 0.79 and 27 false positives). Unlimited depth performed slightly better
+still on this test set (F1 of 0.86 and 10 false positives), which suggests the
+trees were not overfitting harmfully here, most likely because the SMOTE-balanced
+training set is large.
+
+A depth of 20 was retained as the production setting for this project because it
+provides a strong balance of performance and controlled model complexity, and
+because capping depth is a sensible safeguard against overfitting when the model
+is later applied to STADIOEquities' real data, which may behave differently from
+this proxy dataset. Removing the depth cap is documented as a clear direction for
+future improvement.
+
 ## Evaluation metrics
 
 As with Model 1, accuracy is not used as the main measure of performance because
