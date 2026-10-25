@@ -117,7 +117,7 @@ literature.
 
 ## SS3 Part C: Video Presentation
 
-- [Watch the capstone video presentation (STADIO Sharepoint - Anyone with link)](https://stadiomultiversity-my.sharepoint.com/:v:/g/personal/26304588_stadio_ac_za/IQD5o7EsrcdkS5gu4UTdSMufAWIzcXIB2G4xRH0bW8rXzKk?e=zXsWIa)
+- [Watch the capstone video presentation (STADIO Sharepoint - Anyone with link)](https://stadiomultiversity-my.sharepoint.com/:v:/g/personal/26304588_stadio_ac_za/IQAatUtpP7bFRIoF6GC6ELimAVPC6X6_EvBF72nj5ZF9ayU?e=IBbeYV)
 
 
 ## RAAIDD Log
